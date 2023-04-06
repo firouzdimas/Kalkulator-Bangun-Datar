@@ -1,3 +1,3 @@
 # Kalkulator-Bangun-Datar 
 
-# for the link : https://kalkulatorbangundatar.netlify.app/
+for the link : https://kalkulatorbangundatar.netlify.app/
